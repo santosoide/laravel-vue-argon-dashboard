@@ -22,7 +22,7 @@ DB_PASSWORD=root
 
 ## Installation
 
-- `cd laravel-black-dashboard`
+- `cd laravel-vue-argon-dashboard`
 - Install dependencies `composer install`
 - In your terminal run `composer dump-autoload`
 - Run `php artisan migrate --seed` to create basic users table
